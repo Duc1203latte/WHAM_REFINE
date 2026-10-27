@@ -1,0 +1,2 @@
+# Script shell phải giữ LF để chạy được trong WSL
+*.sh text eol=lf

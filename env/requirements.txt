@@ -1,0 +1,19 @@
+# Package pip của env wham-refine (cài sau conda_spec.txt).
+# torch / torchvision / fvcore / iopath / mkl đã có từ conda_spec.txt.
+# pytorch3d không cài bằng pip: setup_env.sh chép từ env wham (bản build từ source).
+numpy==1.22.3
+contourpy==1.2.1
+scipy==1.11.4
+pandas==2.0.3
+matplotlib==3.8.4
+joblib==1.5.3
+tqdm==4.67.1
+smplx==0.1.28
+opencv-python==4.11.0.86
+imageio==2.37.2
+imageio-ffmpeg==0.6.0
+nimblephysics==0.10.36
+cvxpy==1.6.7
+osqp==1.1.3
+clarabel==0.11.1
+scs==3.3.1

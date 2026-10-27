@@ -1,0 +1,13 @@
+# Video RGB là hình người thật: chỉ dùng để kiểm chứng, không đưa lên git
+data/**/rgb.mp4
+
+# Model SMPL (giấy phép riêng), kết quả chạy
+models/
+output/
+
+__pycache__/
+*.pyc
+
+# Ghi chú làm việc riêng, không đưa lên git
+CLAUDE.md
+.claude/
